@@ -1,10 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: About Peter Mack
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below :point_down:).
+I’m located in London, UK.  If you’d like to get in touch, here is my:
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+[LinkedIn profile](http://www.linkedin.com/in/pdmack)
+[Twitter account](http://twitter.com/#!/peterdmack)
+[Facebook account](http://www.facebook.com/pdmack)
