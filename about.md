@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I’m located in London, UK.  If you’d like to get in touch, here is my:
 
-### More Information
+[LinkedIn profile](http://www.linkedin.com/in/pdmack)
 
-A place to include any other types of information that you'd like to include about yourself. 
+[Twitter account](http://twitter.com/#!/peterdmack)
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[Facebook account](http://www.facebook.com/pdmack)
